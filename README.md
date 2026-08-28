@@ -160,3 +160,13 @@ Se os registros continuarem aparecendo, o armazenamento local está funcionando.
 ### Edição de consumo
 
 ![Edição de consumo](assets/edicao.png)
+
+## APK
+
+O arquivo `.apk` do aplicativo está disponível na pasta `/assets`.
+
+```text
+assets/app-release.apk
+```
+
+2. Encaminha ele atraves de algum aplicativo e instala no seu celular.
